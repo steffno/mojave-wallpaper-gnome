@@ -6,8 +6,8 @@ Get the macOS Mojave dynamic wallpaper on Gnome
 ## How to install
 Run these commands in a terminal:
 ```
-git clone https://github.com/MrGian/mojave-wallpaper-linux.git
-cd mojave-wallpaper-linux/
+git clone https://github.com/mrgian/mojave-wallpaper-gnome.git
+cd mojave-wallpaper-gnome/
 chmod +x mojave.sh
 ./mojave.sh
 ```
