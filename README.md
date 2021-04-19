@@ -1,5 +1,9 @@
-# macOS Mojave animated wallpaper on Linux
-### How to install
+<h1 align="center">Mojave Wallpaper Gnome</h1>
+<h3 align="center">
+Get the macOS Mojave dynamic wallpaper on Gnome
+</h3>
+
+## How to install
 Run these commands in a terminal:
 ```
 git clone https://github.com/MrGian/mojave-wallpaper-linux.git
@@ -8,5 +12,6 @@ chmod +x mojave.sh
 ./mojave.sh
 ```
  
-If you are not using GNOME as desktop environment you can manually set mojave.xml as your wallpaper
-You can also delete the mojave-wallpaper-linux folder after running the script
+You can manually set mojave.xml as your wallpaper instead.
+
+You can also delete the mojave-wallpaper-linux directory after running the script
