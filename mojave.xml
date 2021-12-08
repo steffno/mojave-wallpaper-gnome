@@ -1,0 +1,105 @@
+<!-- Original author of this xml file: github.com/trongthanh 
+     Edited by github.com/MrGian 
+-->
+<background>
+  <starttime>
+    <year>2021</year>
+    <month>12</month>
+    <day>8</day>
+    <hour>19</hour>
+    <minute>19</minute>
+    <second>00</second>
+  </starttime>
+  <!-- 00:00 -->
+  <static>
+    <duration>14400.0</duration>
+    <file>/home/snesno/.mojave/wallpapers/dynamic8.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/snesno/.mojave/wallpapers/dynamic8.jpg</from>
+    <to>/home/snesno/.mojave/wallpapers/dynamic1.jpg</to>
+  </transition>
+
+  <!-- 04:00 -->
+  <static>
+    <duration>7200.0</duration>
+    <file>/home/snesno/.mojave/wallpapers/dynamic2.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/snesno/.mojave/wallpapers/dynamic2.jpg</from>
+    <to>/home/snesno/.mojave/wallpapers/dynamic3.jpg</to>
+  </transition>
+  <!-- 06:00 -->
+  <static>
+    <duration>7200.0</duration>
+    <file>/home/snesno/.mojave/wallpapers/dynamic3.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/snesno/.mojave/wallpapers/dynamic3.jpg</from>
+    <to>/home/snesno/.mojave/wallpapers/dynamic4.jpg</to>
+  </transition>
+  <!-- 08:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/snesno/.mojave/wallpapers/dynamic4.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/snesno/.mojave/wallpapers/dynamic4.jpg</from>
+    <to>/home/snesno/.mojave/wallpapers/dynamic5.jpg</to>
+  </transition>
+  <!-- 09:00 -->
+  <static>
+    <duration>14400.0</duration>
+    <file>/home/snesno/.mojave/wallpapers/dynamic5.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/snesno/.mojave/wallpapers/dynamic5.jpg</from>
+    <to>/home/snesno/.mojave/wallpapers/dynamic1.jpg</to>
+  </transition>
+  <!-- 13:00 -->
+  <static>
+    <duration>14400.0</duration>
+    <file>/home/snesno/.mojave/wallpapers/dynamic1.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/snesno/.mojave/wallpapers/dynamic6.jpg</from>
+    <to>/home/snesno/.mojave/wallpapers/dynamic6.jpg</to>
+  </transition>
+  <!-- 17:00 -->
+  <static>
+    <duration>7195.0</duration>
+    <file>/home/snesno/.mojave/wallpapers/dynamic6.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/snesno/.mojave/wallpapers/dynamic6.jpg</from>
+    <to>/home/snesno/.mojave/wallpapers/dynamic7.jpg</to>
+  </transition>
+  <!-- 19:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/snesno/.mojave/wallpapers/dynamic7.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/snesno/.mojave/wallpapers/dynamic7.jpg</from>
+    <to>/home/snesno/.mojave/wallpapers/dynamic8.jpg</to>
+  </transition>
+  
+  <!-- 20:00 -->
+  <static>
+    <duration>14400.0</duration>
+    <file>/home/snesno/.mojave/wallpapers/dynamic8.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/snesno/.mojave/wallpapers/dynamic8.jpg</from>
+    <to>/home/snesno/.mojave/wallpapers/dynamic2.jpg</to>
+  </transition>
+</background>
